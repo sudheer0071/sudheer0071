@@ -7,7 +7,7 @@
 <a href="https://swasthlekh.vercel.app/">
 <img align='left' alt='' width='150' src='https://pub-f7df8bb286174a36bc558870137a7fb7.r2.dev/swasthlekh%20svg%202.png'><img/>
 </a>
-<p><h3 align='left'>Streamlining Patient-Doctor Interactions:</h3> Enhancing the ease of
+<p><h4 align='left'>Streamlining Patient-Doctor Interactions:</h4> Enhancing the ease of
 communication and scheduling between patients and doctors to provide a
 smoother experience</p> 
 <br/>  
