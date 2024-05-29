@@ -9,6 +9,10 @@
 </a> 
 <h4 align=''>Streamlining Patient-Doctor Interactions:</h4> 
 Enhancing the ease ofcommunication and scheduling between patients and doctors to provide a smoother experience</p> 
+<h4 align=''>Ensuring Smooth Workflow:</h4> 
+Improving the flow of operations across
+various hospital processes such as OPD checkups, report understanding
+for patients, and medical record management</p> 
 <br/>  
  <br/>
 </p>  
