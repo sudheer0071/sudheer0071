@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/082e4970f39bf3115a35b161f85d2b56a3146bc1b5c4f4822cdedfaf80fbaa8f/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67"/>
 <h1 align="center">
   <p align="center">
-  <img aligh='center' alt="Hi I'm Sudheer" title="Hi" src="https://readme-typing-svg.herokuapp.com?font=mono&weight=900&size=38&duration=4000&pause=1000&color=4A83C0&center=true&vCenter=true&random=false&width=672&lines=Hi%2C+I'm+Sudheer;I'm+a+Web+developer;I+love+typescript" alt="Typing SVG">
+  <img aligh='center' alt="Hi I'm Sudheer" title="Hi" src="https://readme-typing-svg.herokuapp.com?font=mono&weight=900&size=38&duration=4000&pause=1000&color=4A83C0&center=true&vCenter=true&random=false&width=672&lines=Hi%2C+I'm+Sudheer;I'm+a+Web+developer;I+love+TypeScript" alt="Typing SVG">
   </p>
 </h1> 
 <h3 align="center">A passionate web developer from India</h3>
