@@ -6,7 +6,7 @@
 </h1> 
 <h3 align="center">A passionate web developer from India</h3>
 <p>
-<img alt='coding' align='right' width='400' src='https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966'   style="position: relative; z-index: 0; margin-top: 130px;" ><img/>
+<img alt='coding' align='right' width='400' height='223' src='https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966'   style="position: relative; z-index: 0; margin-top: 130px;" ><img/>
 <h1 align='left'>My lastest project</h1>
 <a href="https://swasthlekh.vercel.app/">
 <img align=' ' alt='' width='150' src='https://pub-f7df8bb286174a36bc558870137a7fb7.r2.dev/swasthlekh%20svg%202.png'><img/>
