@@ -5,11 +5,7 @@
   </p>
 </h1> 
 <h3 align="center">A passionate web developer from India</h3>
-<p> 
-<br/>
-<br/>
-<br/>
-
+<p>   
 
 <h1 align='left' >My lastest project</h1>
 <a href="https://swasthlekh.vercel.app/">
