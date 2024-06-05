@@ -18,15 +18,15 @@ Enhancing the ease ofcommunication and scheduling between patients and doctors t
 Improving the flow of operations across
 various hospital processes such as OPD checkups, report understanding
 for patients, and medical record management</p> 
-<br/>  
- <br/>
- 
-### Check my CLI !
 
+<br/>
+
+### Check my CLI ! 
 ```bash 
 npx sudheerdev
 ```
-
+<br/>  
+ <br/>
 
 </p>  
 <h1 align="left">Languages and Tools</h3>
