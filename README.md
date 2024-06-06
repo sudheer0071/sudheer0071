@@ -21,7 +21,7 @@ for patients, and medical record management</p>
 
 <br/>
 
-### Check my CLI ! 
+### Checkout my CLI ! 
 ```bash 
 npx sudheerdev
 ```
