@@ -7,7 +7,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <p>   
 
-<h1 align='left' >My lastest project</h1>
+<h1 align='left' >My latest project</h1>
 <a href="https://swasthlekh.vercel.app/">
 <img align=' ' alt='' width='150' src='https://pub-f7df8bb286174a36bc558870137a7fb7.r2.dev/swasthlekh%20svg%202.png'><img/>
 </a> 
