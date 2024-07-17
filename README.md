@@ -44,7 +44,7 @@ npx sudheerdev
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=docker,cloudflare,gcp,aws,azure&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=docker,aws,cloudflare,gcp,azure&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,eclipse,githubactions&theme=dark"></td>
 </tr>
 </table>
