@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/082e4970f39bf3115a35b161f85d2b56a3146bc1b5c4f4822cdedfaf80fbaa8f/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67"/>
+<img src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 <h1 align="center">
   <p align="center">
   <img aligh='center' alt="Hi, I'm Sudheer" title="Hi" src="https://readme-typing-svg.herokuapp.com/?font=mono&weight=900&size=38&duration=4000&pause=1000&color=4A83C0&center=true&vCenter=true&random=false&width=672&lines=Hi%20there%2C+I%27m+Sudheer;I%27m+a+Web+developer;I+love+TypeScript" alt="Typing SVG">
@@ -11,7 +11,7 @@
 <a href="https://swasthlekh.vercel.app/">
 <img align=' ' alt='' width='150' src='https://pub-f7df8bb286174a36bc558870137a7fb7.r2.dev/swasthlekh%20svg%202.png'><img/>
 </a> 
-<img alt='coding' align='right' width='400' src='https://camo.githubusercontent.com/1b256a2f1b9f433ef807f42de0b3cc25c1ba9f78c10bc53df6d1bc841c983398/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966'/>
+<img alt='coding' align='right' width='400' src='https://media.licdn.com/dms/image/v2/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=VzLHMqcE50y3xqTRNMou5y2N66-JDMXvgAVx8TZYJzY'/>
 <h4 align=''>Streamlining Patient-Doctor Interactions:</h4> 
 Enhancing the ease ofcommunication and scheduling between patients and doctors to provide a smoother experience</p> 
 <h4 align=''>Ensuring Smooth Workflow:</h4> 
@@ -51,8 +51,8 @@ npx sudheerdev
  
 <h2 class="heading-element" dir="auto">📖  What I am currently learning / improving on</h2>
 <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cb452cb8b233670ac5125cd1fa9cd3a0b4330d8497e6664be5f00374ef9f6fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d4635344430313f6c6f676f3d72757374266c6f676f436f6c6f723d353634343338"><img src="https://camo.githubusercontent.com/7cb452cb8b233670ac5125cd1fa9cd3a0b4330d8497e6664be5f00374ef9f6fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d4635344430313f6c6f676f3d72757374266c6f676f436f6c6f723d353634343338" alt="rust logo" title="Rust" height="25" data-canonical-src="https://img.shields.io/badge/Rust-F54D01?logo=rust&amp;logoColor=564438" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e240e30891dc1267235c40da1fecc496de6904d8a8a79e64c143e8843201630/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f636b636861696e2d3238324333343f6c6f676f3d657468657265756d266c6f676f436f6c6f723d373837306535"><img src="https://camo.githubusercontent.com/2e240e30891dc1267235c40da1fecc496de6904d8a8a79e64c143e8843201630/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c6f636b636861696e2d3238324333343f6c6f676f3d657468657265756d266c6f676f436f6c6f723d373837306535" alt="Blockchain logo" title="Blockchain" height="25" data-canonical-src="https://img.shields.io/badge/Blockchain-282C34?logo=ethereum&amp;logoColor=7870e5" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://solana.com"><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="rust logo" title="Rust" height="50" width="50" data-canonical-src="https://img.shields.io/badge/Rust-F54D01?logo=rust&amp;logoColor=564438" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://ethereum.org/en/"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Blockchain logo" title="Blockchain" height="45" data-canonical-src="https://img.shields.io/badge/Blockchain-282C34?logo=ethereum&amp;logoColor=7870e5" style="max-width: 100%;"></a>
  </p>
 
 <br>
