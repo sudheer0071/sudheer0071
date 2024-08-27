@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+<img src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="300" width="800" />
 <h1 align="center">
   <p align="center">
   <img aligh='center' alt="Hi, I'm Sudheer" title="Hi" src="https://readme-typing-svg.herokuapp.com/?font=mono&weight=900&size=38&duration=4000&pause=1000&color=4A83C0&center=true&vCenter=true&random=false&width=672&lines=Hi%20there%2C+I%27m+Sudheer;I%27m+a+Web+developer;I+love+TypeScript" alt="Typing SVG">
