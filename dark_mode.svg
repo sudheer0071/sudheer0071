@@ -49,16 +49,16 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">sudheer@chaurasia</tspan> -——————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Windows 11, Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data">4 years, 0 months, 5 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Avinya Neurotech</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">SWE @ Avinya Neurotech</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Software Engineer, Full Stack</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">VSCode</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode, Cursor</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C/C++, Python, JS, TS, SQL</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HTML, CSS, Tailwind, SCSS</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Next.js, React, Node, Express, Flask</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">PostgreSQL, MongoDB</tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Docker, AWS, GCP, Git</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Solana, Blockchain</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Docker, Docker Swarm, AWS, GCP, Azure, Git</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Solana, Blockchain, Scaling, Kubernetes</tspan>
 <tspan x="390" y="290" class="cc">. </tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">sudheer1614@gmail.com</tspan>
