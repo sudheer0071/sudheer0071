@@ -8,6 +8,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: readme-build
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,4 +41,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          # the branch may have moved while this job ran; rebase our stats
+          # commit onto the latest main (favoring our fresh stats) then push
+          git pull --rebase -X theirs origin main
           git push
